@@ -1,0 +1,3 @@
+In this project, we were tasked with creating a neural network to identify pain levels in newborn children.
+Our dataset was collected from 4 children, and tracked heart rate, respiratory rate, and o2 levels in their blood.
+Given these datapoints, the neural network identifies the pain level the child is in. 0 being no pain, 1 being mild pain, and 2 being heavy pain.
